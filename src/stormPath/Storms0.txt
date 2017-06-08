@@ -1,0 +1,4 @@
+Irene 2011 | New York | Boston | Halifax |
+Storm0 1999 | Beijing | Toronto | Shanghai | Madrid |
+Storm1 2158 | city1 | city2 | city3 | cityn |
+Storm2 1380 | city4 | city6 | city5 | cityn |
