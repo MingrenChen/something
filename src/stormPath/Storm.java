@@ -18,7 +18,7 @@ public class Storm {
 
     public int getYear(){
         return this.year;}
-8
+
     public boolean equals(Storm s){
         if (this.name.equals(s.getName()))
             return true;
